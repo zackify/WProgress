@@ -6,7 +6,7 @@
   z-index: 99999;
   /* Dimensions */
   width: 100%;
-  height: 5px;
+  height: 2px;
 
   /* Reset the appearance */
   -webkit-appearance: none;
@@ -28,7 +28,7 @@
 }
 
 #wprogress::-webkit-progress-value {
-  background-color: red;
+  background-color: blue;
 }
 
 #wprogress::-moz-progress-bar {
